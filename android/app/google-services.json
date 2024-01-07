@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "202473817145",
+    "project_id": "social-ec24c",
+    "storage_bucket": "social-ec24c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:202473817145:android:5124ea77f26c8157e2b9e8",
+        "android_client_info": {
+          "package_name": "com.example.use_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPnhJcWjcqUJXbCnEBqGNMz6Q3hDnsCjA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
