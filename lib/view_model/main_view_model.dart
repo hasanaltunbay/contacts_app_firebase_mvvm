@@ -92,6 +92,9 @@ class MainViewModel with ChangeNotifier {
                 id: id,
               ),
             ));
-    Navigator.push(context, pageRoute);
+    Navigator.push(context, pageRoute).then((value) {
+      _persons.clear();
+      _getPersons();
+    });
   }
 }
