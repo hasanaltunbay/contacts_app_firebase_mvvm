@@ -18,7 +18,9 @@
 
 Architecture: MVVM (Model-View-ViewModel) architecture is employed for efficient separation of concerns.
 
-State Management: provider package is utilized for efficient state management in the application.
+Provider Package: Utilized for efficient state management.
+
+
 
 Flutter: Used for cross-platform mobile app development.
 
@@ -28,6 +30,6 @@ Firebase Firestore: Used for data storage.
 
 Firebase Storage: Utilized for storing and retrieving images to enhance user experience.
 
-Provider Package: Utilized for efficient state management.
+
 
 
