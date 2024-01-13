@@ -1,4 +1,4 @@
-Screenshots
+<h3>Screenshots</h3>
 
 
 
@@ -14,6 +14,15 @@ Screenshots
 <img src=https://github.com/hasanaltunbay/contacts_app_firebase_mvvm/assets/132913817/3ff87d47-e2d3-407f-a9a2-219db5c75edd width="200" height="400" />
 
 
+<h3>Architecture and Technologies</h3>
 
+Architecture: MVVM (Model-View-ViewModel) architecture is employed for efficient separation of concerns.
+State Management: provider package is utilized for efficient state management in the application.
+
+Flutter: Used for cross-platform mobile app development.
+Firebase Authentication: Used for user login and registration.
+Firebase Firestore: Used for data storage.
+Firebase Storage: Utilized for storing and retrieving images to enhance user experience.
+Provider Package: Utilized for efficient state management.
 
 
