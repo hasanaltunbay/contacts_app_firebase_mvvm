@@ -22,7 +22,6 @@ Provider Package: Utilized for efficient state management.
 
 
 
-Flutter: Used for cross-platform mobile app development.
 
 Firebase Authentication: Used for user login and registration.
 
