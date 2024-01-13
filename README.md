@@ -1,6 +1,4 @@
 
-
-
 Login Page
 <img src=https://github.com/hasanaltunbay/contacts_app_firebase_mvvm/assets/132913817/3e3055ce-1215-4585-9519-2cbd3663c794 width="200" height="400" />
 
