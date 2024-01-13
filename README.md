@@ -1,16 +1,6 @@
-# use_firebase
+Login Page
+![login](https://github.com/hasanaltunbay/contacts_app_firebase_mvvm/assets/132913817/3e3055ce-1215-4585-9519-2cbd3663c794)
 
-A new Flutter project.
+Register Page
+![register_page](https://github.com/hasanaltunbay/contacts_app_firebase_mvvm/assets/132913817/368f7fe6-a99a-42c9-b9f4-bade3fc6205b)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
